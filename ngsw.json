@@ -1,0 +1,80 @@
+{
+  "configVersion": 1,
+  "timestamp": 1599158115920,
+  "index": "/ng-toh/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/ng-toh/favicon.ico",
+        "/ng-toh/index.html",
+        "/ng-toh/main.414825f2cfddf561c996.js",
+        "/ng-toh/manifest.webmanifest",
+        "/ng-toh/polyfills.a4021de53358bb0fec14.js",
+        "/ng-toh/runtime.e227d1a0e31cbccbf8ec.js",
+        "/ng-toh/styles.f09b455c264f4496711b.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/ng-toh/assets/icons/icon-128x128.png",
+        "/ng-toh/assets/icons/icon-144x144.png",
+        "/ng-toh/assets/icons/icon-152x152.png",
+        "/ng-toh/assets/icons/icon-192x192.png",
+        "/ng-toh/assets/icons/icon-384x384.png",
+        "/ng-toh/assets/icons/icon-512x512.png",
+        "/ng-toh/assets/icons/icon-72x72.png",
+        "/ng-toh/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/ng-toh/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/ng-toh/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/ng-toh/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/ng-toh/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/ng-toh/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/ng-toh/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/ng-toh/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/ng-toh/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/ng-toh/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/ng-toh/index.html": "38f81ec65087b36097cd8cb42c5cb4e67e2f7e02",
+    "/ng-toh/main.414825f2cfddf561c996.js": "2d440866ae242f4b203c2d08cc6d36c4a0ff4340",
+    "/ng-toh/manifest.webmanifest": "68677af154db1c40b3b3a0b2df88ad674d1da229",
+    "/ng-toh/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
+    "/ng-toh/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/ng-toh/styles.f09b455c264f4496711b.css": "93b9c6ddc952ea9a692942ec4a9d80b1befdc89f"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
